@@ -18,7 +18,7 @@ This is a Winium+Maven+TestNG based framework to automate basic tasks of windows
 ### Steps to import project:
 
 1. Unzip the donwloaded file
-2. In Eclipse, navigate to Fileà Importà Mavenà Existing Maven Projects, Click Next and select the unzipped folder in Root directory
+2. In Eclipse, navigate to File -> Import -> Maven -> Existing Maven Projects, Click Next and select the unzipped folder in Root directory
 3. Select pom.xml in Projects section on Maven Project screen and click on Finish
 4. Project should get added in Workspace
 
