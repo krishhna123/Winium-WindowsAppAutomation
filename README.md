@@ -8,7 +8,6 @@ This is a Winium+Maven+TestNG based framework to automate basic tasks of windows
 3. [Out of Scope](#out-of-scope)
 
  
-
 ### System Requirement:
 
 1. Windows 10 System with inbuilt Calculator application
@@ -16,7 +15,6 @@ This is a Winium+Maven+TestNG based framework to automate basic tasks of windows
 3. Java
 
  
-
 ### Steps to import project:
 
 1. Unzip the donwloaded file
@@ -34,7 +32,7 @@ This is a Winium+Maven+TestNG based framework to automate basic tasks of windows
 5. Here in Parameter tag you can provide the desired expression as a value which you want to perform on calculator application
 6. In AppTest.java file under src/test/java Calculator_Winium.Calculator_Winium package, Test methods are written to verify the functionality
 7. In Assert statement in each Test method, provide expected result for each expression
-8. 
+
  a. Run using maven
  
               i.   Right click on project and choose Run As-> Maven Clean
